@@ -1,13 +1,92 @@
 rules_version = '2';
+
 service cloud.firestore {
   match /databases/{database}/documents {
-    function signedIn() { return request.auth != null; }
-    function isOwner(uid) { return signedIn() && request.auth.uid == uid; }
-    function isAdmin() { return signedIn() && get(/databases/$(database)/documents/profiles/$(request.auth.uid)).data.role == 'admin'; }
-    match /profiles/{uid} { allow read: if signedIn(); allow create: if isOwner(uid); allow update: if isOwner(uid) || isAdmin(); }
-    match /places/{id} { allow read: if true; allow write: if isAdmin(); }
-    match /events/{id} { allow read: if true; allow write: if isAdmin(); }
-    match /reviews/{id} { allow read: if true; allow create: if signedIn(); allow update, delete: if isAdmin() || resource.data.uid == request.auth.uid; }
-    match /businessClaims/{id} { allow create: if signedIn(); allow read, update: if isAdmin() || resource.data.uid == request.auth.uid; }
+
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(uid) {
+      return signedIn() && request.auth.uid == uid;
+    }
+
+    function isAdmin() {
+      return signedIn()
+        && request.auth.token.email == "padondehn@sublicuentas.com";
+    }
+
+    match /profiles/{uid} {
+      allow read: if isOwner(uid) || isAdmin();
+
+      allow create: if isOwner(uid)
+        && request.resource.data.uid == uid
+        && request.resource.data.email == request.auth.token.email
+        && (
+          request.resource.data.role == "user"
+          || (
+            request.resource.data.role == "admin"
+            && isAdmin()
+          )
+        );
+
+      allow update: if isAdmin()
+        || (
+          isOwner(uid)
+          && request.resource.data.diff(resource.data)
+            .affectedKeys()
+            .hasOnly([
+              "displayName",
+              "department",
+              "photoURL",
+              "favorites",
+              "likes",
+              "visited"
+            ])
+        );
+
+      allow delete: if isAdmin();
+    }
+
+    match /places/{placeId} {
+      allow read: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /events/{eventId} {
+      allow read: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /reviews/{reviewId} {
+      allow read: if true;
+
+      allow create: if signedIn()
+        && request.resource.data.uid == request.auth.uid;
+
+      allow update, delete: if isAdmin()
+        || (
+          signedIn()
+          && resource.data.uid == request.auth.uid
+          && request.resource.data.uid == request.auth.uid
+        );
+    }
+
+    match /businessClaims/{claimId} {
+      allow create: if signedIn()
+        && request.resource.data.uid == request.auth.uid;
+
+      allow read: if isAdmin()
+        || (
+          signedIn()
+          && resource.data.uid == request.auth.uid
+        );
+
+      allow update, delete: if isAdmin();
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
   }
 }
