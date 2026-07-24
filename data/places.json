@@ -1,1 +1,964 @@
-
+[
+  {
+    "id": "atlantida-lancetilla",
+    "name": "Jardín Botánico Lancetilla",
+    "slug": "jardin-botanico-lancetilla",
+    "department": "Atlántida",
+    "city": "Tela",
+    "categories": [
+      "Parques",
+      "Naturaleza",
+      "Caminatas"
+    ],
+    "summary": "Jardín botánico, senderos y naturaleza cerca de Tela.",
+    "description": "Una opción para caminar, observar vegetación tropical y disfrutar una salida tranquila. Confirme condiciones de acceso antes de viajar.",
+    "cover": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 15.739,
+    "lng": -87.469,
+    "address": "Tela, Atlántida",
+    "priceLabel": "Consultar tarifa vigente",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Todos los días",
+        "open": "08:00",
+        "close": "16:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Senderos",
+      "Guías",
+      "Fotografía"
+    ],
+    "idealFor": [
+      "Familia",
+      "Pareja",
+      "Solo"
+    ],
+    "rating": 4.7,
+    "reviewCount": 216,
+    "visits": 1640,
+    "likes": 481,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "choluteca-cedeno",
+    "name": "Playa Cedeño",
+    "slug": "playa-cedeno",
+    "department": "Choluteca",
+    "city": "Marcovia",
+    "categories": [
+      "Playas",
+      "Naturaleza"
+    ],
+    "summary": "Playa del Pacífico para mariscos, atardecer y paseo costero.",
+    "description": "Destino costero popular para una salida de día. El acceso y las condiciones pueden variar por temporada.",
+    "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 13.173,
+    "lng": -87.418,
+    "address": "Marcovia, Choluteca",
+    "priceLabel": "Acceso variable",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Todos los días",
+        "open": "06:00",
+        "close": "18:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Restaurantes cercanos",
+      "Playa",
+      "Atardecer"
+    ],
+    "idealFor": [
+      "Familia",
+      "Amigos",
+      "Pareja"
+    ],
+    "rating": 4.4,
+    "reviewCount": 132,
+    "visits": 1210,
+    "likes": 356,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "colon-capiro",
+    "name": "Parque Nacional Capiro y Calentura",
+    "slug": "capiro-y-calentura",
+    "department": "Colón",
+    "city": "Trujillo",
+    "categories": [
+      "Caminatas",
+      "Parques",
+      "Naturaleza"
+    ],
+    "summary": "Montaña, bosque y vistas alrededor de Trujillo.",
+    "description": "Experiencia de naturaleza y caminata. Se recomienda verificar guía, clima y estado de senderos.",
+    "cover": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 15.895,
+    "lng": -85.938,
+    "address": "Trujillo, Colón",
+    "priceLabel": "Consultar guía y acceso",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Visita diurna",
+        "open": "07:00",
+        "close": "16:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Senderismo",
+      "Miradores",
+      "Naturaleza"
+    ],
+    "idealFor": [
+      "Aventura",
+      "Amigos",
+      "Pareja"
+    ],
+    "rating": 4.6,
+    "reviewCount": 61,
+    "visits": 520,
+    "likes": 198,
+    "verified": false,
+    "status": "published"
+  },
+  {
+    "id": "comayagua-centro",
+    "name": "Centro Histórico de Comayagua",
+    "slug": "centro-historico-comayagua",
+    "department": "Comayagua",
+    "city": "Comayagua",
+    "categories": [
+      "Historia",
+      "Museos",
+      "Parques"
+    ],
+    "summary": "Arquitectura, plazas, museos y gastronomía en un recorrido caminable.",
+    "description": "Ideal para combinar historia, fotografía, café y comida en un plan de medio día.",
+    "cover": "https://images.unsplash.com/photo-1524498250077-390f9e378fc0?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.452,
+    "lng": -87.637,
+    "address": "Centro, Comayagua",
+    "priceLabel": "Recorrido libre; museos aparte",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Espacios públicos",
+        "open": "06:00",
+        "close": "21:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Plaza",
+      "Restaurantes",
+      "Fotografía"
+    ],
+    "idealFor": [
+      "Familia",
+      "Pareja",
+      "Adultos mayores"
+    ],
+    "rating": 4.8,
+    "reviewCount": 430,
+    "visits": 2890,
+    "likes": 834,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "copan-parque",
+    "name": "Parque Arqueológico de Copán",
+    "slug": "parque-arqueologico-copan",
+    "department": "Copán",
+    "city": "Copán Ruinas",
+    "categories": [
+      "Museos",
+      "Historia",
+      "Parques"
+    ],
+    "summary": "Uno de los principales sitios arqueológicos de Honduras.",
+    "description": "Recorrido arqueológico con estelas, plazas y museos complementarios. La información de tarifas debe verificarse antes de la visita.",
+    "cover": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.84,
+    "lng": -89.142,
+    "address": "Copán Ruinas, Copán",
+    "priceLabel": "Hondureños desde L 80",
+    "prices": [
+      {
+        "label": "Entrada hondureños",
+        "price": 80
+      },
+      {
+        "label": "Estudiantes hondureños",
+        "price": 25
+      },
+      {
+        "label": "Museo de la Escultura, hondureños",
+        "price": 50
+      }
+    ],
+    "schedule": [
+      {
+        "day": "Todos los días",
+        "open": "08:00",
+        "close": "17:00"
+      }
+    ],
+    "promotions": [
+      "Último jueves del mes: estudiantes hondureños gratis con reservación, según fuente consultada"
+    ],
+    "menu": [],
+    "amenities": [
+      "Museos",
+      "Guías",
+      "Estacionamiento"
+    ],
+    "idealFor": [
+      "Familia",
+      "Historia",
+      "Fotografía"
+    ],
+    "rating": 4.9,
+    "reviewCount": 3120,
+    "visits": 9200,
+    "likes": 2840,
+    "verified": true,
+    "verifiedAt": "2026-07-24",
+    "sourceUrl": "https://www.casadetodo.com/horariosyentradas.html",
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "cortes-omoa",
+    "name": "Fortaleza San Fernando de Omoa",
+    "slug": "fortaleza-san-fernando-omoa",
+    "department": "Cortés",
+    "city": "Omoa",
+    "categories": [
+      "Museos",
+      "Historia",
+      "Parques"
+    ],
+    "summary": "Fortaleza histórica cerca de la costa caribeña.",
+    "description": "Puede combinarse con playa y gastronomía de Omoa para un viaje de un día.",
+    "cover": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 15.775,
+    "lng": -88.034,
+    "address": "Omoa, Cortés",
+    "priceLabel": "Consultar tarifa",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Horario por verificar",
+        "open": "08:00",
+        "close": "16:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Historia",
+      "Costa cercana",
+      "Fotografía"
+    ],
+    "idealFor": [
+      "Familia",
+      "Pareja",
+      "Historia"
+    ],
+    "rating": 4.7,
+    "reviewCount": 410,
+    "visits": 2860,
+    "likes": 812,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "elparaiso-yuscaran",
+    "name": "Reserva Biológica de Yuscarán",
+    "slug": "reserva-biologica-yuscaran",
+    "department": "El Paraíso",
+    "city": "Yuscarán",
+    "categories": [
+      "Caminatas",
+      "Naturaleza",
+      "Campamentos"
+    ],
+    "summary": "Bosque, senderos y clima fresco cerca de un pueblo histórico.",
+    "description": "Recomendable coordinar guía local, especialmente para rutas largas o campamento.",
+    "cover": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 13.95,
+    "lng": -86.853,
+    "address": "Yuscarán, El Paraíso",
+    "priceLabel": "Consultar operador local",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Visita diurna",
+        "open": "07:00",
+        "close": "16:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Senderismo",
+      "Guía recomendado",
+      "Clima fresco"
+    ],
+    "idealFor": [
+      "Aventura",
+      "Amigos",
+      "Pareja"
+    ],
+    "rating": 4.6,
+    "reviewCount": 87,
+    "visits": 740,
+    "likes": 240,
+    "verified": false,
+    "status": "published"
+  },
+  {
+    "id": "fm-min",
+    "name": "Museo para la Identidad Nacional",
+    "slug": "museo-identidad-nacional",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Museos",
+      "Historia"
+    ],
+    "summary": "Historia, cultura y exposiciones en un edificio patrimonial.",
+    "description": "Museo ubicado en el antiguo Palacio de los Ministerios, con exhibiciones permanentes y temporales.",
+    "cover": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.105,
+    "lng": -87.204,
+    "address": "Centro de Tegucigalpa",
+    "priceLabel": "Consultar entradas vigentes",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Consultar agenda oficial",
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Exhibiciones",
+      "Tienda",
+      "Agenda cultural"
+    ],
+    "idealFor": [
+      "Familia",
+      "Pareja",
+      "Historia"
+    ],
+    "rating": 4.8,
+    "reviewCount": 980,
+    "visits": 4800,
+    "likes": 1480,
+    "verified": true,
+    "verifiedAt": "2026-07-24",
+    "sourceUrl": "https://www.min.hn/",
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "fm-latigra",
+    "name": "Parque Nacional La Tigra",
+    "slug": "parque-nacional-la-tigra",
+    "department": "Francisco Morazán",
+    "city": "Distrito Central",
+    "categories": [
+      "Caminatas",
+      "Parques",
+      "Naturaleza",
+      "Campamentos"
+    ],
+    "summary": "Bosque nublado y rutas de senderismo cerca de Tegucigalpa.",
+    "description": "Seleccione ruta según condición física y confirme acceso, clima y guía.",
+    "cover": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.209,
+    "lng": -87.117,
+    "address": "Francisco Morazán",
+    "priceLabel": "Consultar entrada y guía",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Visita diurna",
+        "open": "07:00",
+        "close": "15:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Senderos",
+      "Bosque nublado",
+      "Miradores"
+    ],
+    "idealFor": [
+      "Aventura",
+      "Familia",
+      "Pareja"
+    ],
+    "rating": 4.8,
+    "reviewCount": 760,
+    "visits": 3500,
+    "likes": 1170,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "gd-rio-platano",
+    "name": "Reserva de la Biosfera del Río Plátano",
+    "slug": "rio-platano",
+    "department": "Gracias a Dios",
+    "city": "La Mosquitia",
+    "categories": [
+      "Naturaleza",
+      "Campamentos",
+      "Caminatas"
+    ],
+    "summary": "Experiencia de naturaleza remota que requiere planificación y operadores autorizados.",
+    "description": "No es una salida improvisada: requiere logística, guías y consulta de condiciones de seguridad y acceso.",
+    "cover": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 15.2,
+    "lng": -84.7,
+    "address": "Gracias a Dios",
+    "priceLabel": "Cotización con operador",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Con reservación",
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Expedición",
+      "Guía obligatorio",
+      "Naturaleza"
+    ],
+    "idealFor": [
+      "Aventura",
+      "Investigación"
+    ],
+    "rating": 4.9,
+    "reviewCount": 102,
+    "visits": 310,
+    "likes": 221,
+    "verified": false,
+    "status": "published"
+  },
+  {
+    "id": "intibuca-chiligatoro",
+    "name": "Laguna de Chiligatoro",
+    "slug": "laguna-chiligatoro",
+    "department": "Intibucá",
+    "city": "La Esperanza",
+    "categories": [
+      "Campamentos",
+      "Naturaleza",
+      "Caminatas"
+    ],
+    "summary": "Clima fresco, paisaje de montaña y experiencias comunitarias.",
+    "description": "Ideal para desconectarse, acampar y combinar con gastronomía de La Esperanza.",
+    "cover": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.307,
+    "lng": -88.178,
+    "address": "Intibucá",
+    "priceLabel": "Consultar alojamiento o camping",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Con reservación",
+        "open": "07:00",
+        "close": "18:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Camping",
+      "Clima fresco",
+      "Comunidad"
+    ],
+    "idealFor": [
+      "Pareja",
+      "Familia",
+      "Amigos"
+    ],
+    "rating": 4.7,
+    "reviewCount": 170,
+    "visits": 1320,
+    "likes": 465,
+    "verified": false,
+    "status": "published"
+  },
+  {
+    "id": "ib-westbay",
+    "name": "West Bay Beach",
+    "slug": "west-bay-beach",
+    "department": "Islas de la Bahía",
+    "city": "Roatán",
+    "categories": [
+      "Playas",
+      "Hoteles",
+      "Naturaleza"
+    ],
+    "summary": "Playa caribeña con hoteles, restaurantes y actividades acuáticas.",
+    "description": "Los costos dependen del acceso, consumo, transporte y establecimiento elegido.",
+    "cover": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 16.274,
+    "lng": -86.596,
+    "address": "West Bay, Roatán",
+    "priceLabel": "Consumo y acceso variables",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Todos los días",
+        "open": "06:00",
+        "close": "18:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Playa",
+      "Snorkel",
+      "Hoteles",
+      "Restaurantes"
+    ],
+    "idealFor": [
+      "Pareja",
+      "Familia",
+      "Amigos"
+    ],
+    "rating": 4.9,
+    "reviewCount": 5600,
+    "visits": 14800,
+    "likes": 5200,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "lapaz-marcala",
+    "name": "Ruta del Café de Marcala",
+    "slug": "ruta-cafe-marcala",
+    "department": "La Paz",
+    "city": "Marcala",
+    "categories": [
+      "Cafeterías",
+      "Naturaleza",
+      "Caminatas"
+    ],
+    "summary": "Café, fincas, montaña y experiencias locales.",
+    "description": "La ruta exacta se arma con fincas y cafeterías verificadas según fecha y reservación.",
+    "cover": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.151,
+    "lng": -88.034,
+    "address": "Marcala, La Paz",
+    "priceLabel": "Desde consumo individual",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Según establecimiento",
+        "open": "07:00",
+        "close": "18:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [
+      {
+        "name": "Café de origen",
+        "price": null,
+        "description": "Precio según finca o cafetería"
+      }
+    ],
+    "amenities": [
+      "Café",
+      "Fincas",
+      "Fotografía"
+    ],
+    "idealFor": [
+      "Pareja",
+      "Amigos",
+      "Familia"
+    ],
+    "rating": 4.8,
+    "reviewCount": 248,
+    "visits": 1910,
+    "likes": 702,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "lempira-celaque",
+    "name": "Parque Nacional Celaque",
+    "slug": "parque-nacional-celaque",
+    "department": "Lempira",
+    "city": "Gracias",
+    "categories": [
+      "Caminatas",
+      "Campamentos",
+      "Naturaleza"
+    ],
+    "summary": "Montaña y senderismo para distintos niveles de experiencia.",
+    "description": "Para rutas extensas se requiere preparación, guía y equipo adecuado.",
+    "cover": "https://images.unsplash.com/photo-1464278533981-50106e6176b1?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.56,
+    "lng": -88.67,
+    "address": "Gracias, Lempira",
+    "priceLabel": "Consultar entrada y guía",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Visita diurna",
+        "open": "06:00",
+        "close": "16:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Senderismo",
+      "Camping",
+      "Montaña"
+    ],
+    "idealFor": [
+      "Aventura",
+      "Amigos",
+      "Naturaleza"
+    ],
+    "rating": 4.8,
+    "reviewCount": 340,
+    "visits": 1680,
+    "likes": 610,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "ocotepeque-guisayote",
+    "name": "Reserva Biológica El Güisayote",
+    "slug": "reserva-guisayote",
+    "department": "Ocotepeque",
+    "city": "La Labor",
+    "categories": [
+      "Caminatas",
+      "Campamentos",
+      "Naturaleza"
+    ],
+    "summary": "Bosque de montaña y rutas menos conocidas del occidente.",
+    "description": "Coordine el acceso con guías o comunidades locales y verifique el estado del camino.",
+    "cover": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.55,
+    "lng": -89.18,
+    "address": "Ocotepeque",
+    "priceLabel": "Consultar acceso",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Visita diurna",
+        "open": "07:00",
+        "close": "16:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Bosque",
+      "Senderismo",
+      "Aves"
+    ],
+    "idealFor": [
+      "Aventura",
+      "Fotografía"
+    ],
+    "rating": 4.6,
+    "reviewCount": 49,
+    "visits": 280,
+    "likes": 126,
+    "verified": false,
+    "status": "published"
+  },
+  {
+    "id": "olancho-talgua",
+    "name": "Cuevas de Talgua",
+    "slug": "cuevas-de-talgua",
+    "department": "Olancho",
+    "city": "Catacamas",
+    "categories": [
+      "Naturaleza",
+      "Historia",
+      "Caminatas"
+    ],
+    "summary": "Cuevas y recorrido natural cerca de Catacamas.",
+    "description": "Confirme horario, guía y condiciones del recorrido antes de viajar.",
+    "cover": "https://images.unsplash.com/photo-1504192010706-dd7f569ee2be?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.71,
+    "lng": -85.96,
+    "address": "Catacamas, Olancho",
+    "priceLabel": "Consultar entrada y guía",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Visita diurna",
+        "open": "08:00",
+        "close": "16:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Cuevas",
+      "Guía",
+      "Naturaleza"
+    ],
+    "idealFor": [
+      "Familia",
+      "Aventura",
+      "Historia"
+    ],
+    "rating": 4.7,
+    "reviewCount": 310,
+    "visits": 2050,
+    "likes": 720,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "santabarbara-yojoa",
+    "name": "Lago de Yojoa — zona Santa Bárbara",
+    "slug": "lago-de-yojoa-santa-barbara",
+    "department": "Santa Bárbara",
+    "city": "Peña Blanca",
+    "categories": [
+      "Naturaleza",
+      "Restaurantes",
+      "Hoteles"
+    ],
+    "summary": "Lago, gastronomía, aves y alojamientos para escapadas.",
+    "description": "La app mostrará restaurantes, hoteles y actividades verificadas alrededor del lago.",
+    "cover": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.88,
+    "lng": -87.98,
+    "address": "Zona Lago de Yojoa",
+    "priceLabel": "Según establecimiento",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Todos los días",
+        "open": "06:00",
+        "close": "20:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [
+      {
+        "name": "Pescado frito",
+        "price": null,
+        "description": "Precio según restaurante"
+      }
+    ],
+    "amenities": [
+      "Restaurantes",
+      "Hoteles",
+      "Paseos"
+    ],
+    "idealFor": [
+      "Familia",
+      "Pareja",
+      "Amigos"
+    ],
+    "rating": 4.8,
+    "reviewCount": 780,
+    "visits": 5260,
+    "likes": 1750,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "valle-amapala",
+    "name": "Amapala e Isla del Tigre",
+    "slug": "amapala-isla-del-tigre",
+    "department": "Valle",
+    "city": "Amapala",
+    "categories": [
+      "Playas",
+      "Caminatas",
+      "Hoteles"
+    ],
+    "summary": "Isla, playas, mariscos y vistas del Golfo de Fonseca.",
+    "description": "Incluya lancha, traslado interno, alimentación y regreso en la planificación.",
+    "cover": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 13.292,
+    "lng": -87.653,
+    "address": "Amapala, Valle",
+    "priceLabel": "Transporte y consumo variables",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Todos los días",
+        "open": "06:00",
+        "close": "18:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Playa",
+      "Mariscos",
+      "Lanchas"
+    ],
+    "idealFor": [
+      "Pareja",
+      "Familia",
+      "Amigos"
+    ],
+    "rating": 4.7,
+    "reviewCount": 450,
+    "visits": 3190,
+    "likes": 1090,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "id": "yoro-pico-pijol",
+    "name": "Parque Nacional Pico Pijol",
+    "slug": "pico-pijol",
+    "department": "Yoro",
+    "city": "Morazán",
+    "categories": [
+      "Caminatas",
+      "Campamentos",
+      "Naturaleza"
+    ],
+    "summary": "Bosque y senderismo para explorar el departamento de Yoro.",
+    "description": "Destino para aventura; valide guía, acceso, clima y equipo necesario.",
+    "cover": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 15.18,
+    "lng": -87.57,
+    "address": "Yoro",
+    "priceLabel": "Consultar acceso y guía",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Visita diurna",
+        "open": "07:00",
+        "close": "16:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Senderismo",
+      "Bosque",
+      "Camping"
+    ],
+    "idealFor": [
+      "Aventura",
+      "Amigos"
+    ],
+    "rating": 4.6,
+    "reviewCount": 72,
+    "visits": 430,
+    "likes": 184,
+    "verified": false,
+    "status": "published"
+  },
+  {
+    "id": "fm-picacho-zoo",
+    "name": "Parque Naciones Unidas El Picacho",
+    "slug": "parque-el-picacho",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Parques",
+      "Zoológicos",
+      "Naturaleza"
+    ],
+    "summary": "Parque urbano con miradores, áreas verdes y zoológico.",
+    "description": "Útil para planes familiares y vistas de la ciudad. Horarios y tarifas deben confirmarse.",
+    "cover": "https://images.unsplash.com/photo-1503919005314-30d93d07d823?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [],
+    "lat": 14.122,
+    "lng": -87.192,
+    "address": "El Picacho, Tegucigalpa",
+    "priceLabel": "Consultar tarifa vigente",
+    "prices": [],
+    "schedule": [
+      {
+        "day": "Horario por verificar",
+        "open": "08:00",
+        "close": "17:00"
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Miradores",
+      "Áreas verdes",
+      "Zoológico"
+    ],
+    "idealFor": [
+      "Familia",
+      "Niños",
+      "Pareja"
+    ],
+    "rating": 4.6,
+    "reviewCount": 1100,
+    "visits": 6100,
+    "likes": 1900,
+    "verified": false,
+    "featured": true,
+    "status": "published"
+  }
+]

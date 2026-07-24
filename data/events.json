@@ -1,0 +1,59 @@
+[
+  {
+    "id": "evt-music-demo",
+    "title": "Agenda de conciertos en Honduras",
+    "type": "Música",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "venue": "Varios recintos",
+    "date": "2026-08-01",
+    "time": "19:00",
+    "cover": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
+    "priceLabel": "Según evento",
+    "description": "Tarjeta agregadora de conciertos. En producción se actualiza desde organizadores y fuentes autorizadas.",
+    "ticketUrl": "https://www.eticket.hn/",
+    "promoted": true
+  },
+  {
+    "id": "evt-theatre-demo",
+    "title": "Cartelera de teatro y artes escénicas",
+    "type": "Teatro",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "venue": "Teatros y centros culturales",
+    "date": "2026-08-08",
+    "time": "18:30",
+    "cover": "https://images.unsplash.com/photo-1507924538820-ede94a04019d?auto=format&fit=crop&w=1200&q=80",
+    "priceLabel": "Consultar cartelera",
+    "description": "Espacio para obras, danza, comedia y presentaciones culturales.",
+    "promoted": false
+  },
+  {
+    "id": "evt-festival-demo",
+    "title": "Festival gastronómico regional",
+    "type": "Gastronomía",
+    "department": "Comayagua",
+    "city": "Comayagua",
+    "venue": "Centro histórico",
+    "date": "2026-08-15",
+    "time": "10:00",
+    "cover": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80",
+    "priceLabel": "Entrada libre / consumo",
+    "description": "Evento demostrativo para probar filtros por departamento y fecha.",
+    "promoted": false
+  },
+  {
+    "id": "evt-art-demo",
+    "title": "Exposición temporal de arte hondureño",
+    "type": "Arte",
+    "department": "Cortés",
+    "city": "San Pedro Sula",
+    "venue": "Centro cultural",
+    "date": "2026-08-22",
+    "time": "16:00",
+    "cover": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1200&q=80",
+    "priceLabel": "Consultar",
+    "description": "Contenido de demostración; sustituir por programación verificada desde el panel.",
+    "promoted": false
+  }
+]
