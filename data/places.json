@@ -44,7 +44,11 @@
     "likes": 481,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "choluteca-cedeno",
@@ -90,7 +94,11 @@
     "likes": 356,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "colon-capiro",
@@ -136,7 +144,11 @@
     "visits": 520,
     "likes": 198,
     "verified": false,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "comayagua-centro",
@@ -183,7 +195,11 @@
     "likes": 834,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "copan-parque",
@@ -247,7 +263,10 @@
     "verifiedAt": "2026-07-24",
     "sourceUrl": "https://www.casadetodo.com/horariosyentradas.html",
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": ""
   },
   {
     "id": "cortes-omoa",
@@ -294,7 +313,11 @@
     "likes": 812,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "elparaiso-yuscaran",
@@ -340,7 +363,11 @@
     "visits": 740,
     "likes": 240,
     "verified": false,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "fm-min",
@@ -388,7 +415,10 @@
     "verifiedAt": "2026-07-24",
     "sourceUrl": "https://www.min.hn/",
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": ""
   },
   {
     "id": "fm-latigra",
@@ -436,7 +466,11 @@
     "likes": 1170,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "gd-rio-platano",
@@ -481,7 +515,11 @@
     "visits": 310,
     "likes": 221,
     "verified": false,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "intibuca-chiligatoro",
@@ -527,7 +565,11 @@
     "visits": 1320,
     "likes": 465,
     "verified": false,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "ib-westbay",
@@ -575,7 +617,11 @@
     "likes": 5200,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "lapaz-marcala",
@@ -628,7 +674,11 @@
     "likes": 702,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "lempira-celaque",
@@ -675,7 +725,11 @@
     "likes": 610,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "ocotepeque-guisayote",
@@ -720,7 +774,11 @@
     "visits": 280,
     "likes": 126,
     "verified": false,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "olancho-talgua",
@@ -767,7 +825,11 @@
     "likes": 720,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "santabarbara-yojoa",
@@ -820,7 +882,11 @@
     "likes": 1750,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "valle-amapala",
@@ -867,7 +933,11 @@
     "likes": 1090,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "yoro-pico-pijol",
@@ -912,7 +982,11 @@
     "visits": 430,
     "likes": 184,
     "verified": false,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
   },
   {
     "id": "fm-picacho-zoo",
@@ -959,6 +1033,1281 @@
     "likes": 1900,
     "verified": false,
     "featured": true,
-    "status": "published"
+    "status": "published",
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "sourceUrl": ""
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [
+      {
+        "name": "Anafre (frijoles con queso)",
+        "price": null,
+        "description": "Entrada tradicional servida en olla de barro con carbón"
+      },
+      {
+        "name": "Pincho de carne a la parrilla",
+        "price": null
+      },
+      {
+        "name": "Plato típico El Patio",
+        "price": null,
+        "description": "Carne asada, frijoles, plátano, queso y chismol"
+      }
+    ],
+    "amenities": [
+      "Terraza",
+      "Estacionamiento",
+      "Música típica",
+      "Grupos grandes",
+      "Ambiente familiar"
+    ],
+    "idealFor": [
+      "Familia",
+      "Turistas",
+      "Grupos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 1240,
+    "likes": 310,
+    "reviewCount": 0,
+    "rating": 4.5,
+    "id": "fm-el-patio",
+    "name": "Restaurante El Patio",
+    "slug": "restaurante-el-patio",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Restaurantes",
+      "Historia"
+    ],
+    "summary": "Comida típica hondureña desde 1977, decoración colonial y meseros con traje tradicional.",
+    "description": "Uno de los restaurantes más antiguos y reconocidos de la capital. Fundado el 3 de octubre de 1977, ha sido recomendado por medios internacionales como The New York Times. Su especialidad son los anafres, pinchos y carnes a la parrilla servidos en un ambiente decorado con estatuas lencas.",
+    "cover": "https://images.unsplash.com/photo-1544148103-0773bf10d330?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.0912,
+    "lng": -87.1893,
+    "address": "Blvd. Morazán, Tegucigalpa",
+    "priceLabel": "Plato fuerte aprox. L280–L550 por persona (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Lunes a domingo",
+        "open": "11:00",
+        "close": "22:00"
+      }
+    ],
+    "sourceUrl": "https://www.hondurastips.hn/2022/10/04/el-patio-45-anos-fascinando-el-paladar-de-los-hondureno/"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [
+      {
+        "name": "Sándwich Duncan",
+        "price": null,
+        "description": "Especialidad de la casa"
+      },
+      {
+        "name": "Churrasco",
+        "price": null
+      },
+      {
+        "name": "Paella",
+        "price": null
+      }
+    ],
+    "amenities": [
+      "Música en vivo (vie-sáb)",
+      "Ambiente histórico",
+      "Grupos grandes"
+    ],
+    "idealFor": [
+      "Familia",
+      "Turistas",
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 980,
+    "likes": 245,
+    "reviewCount": 0,
+    "rating": 4.4,
+    "id": "fm-duncan-mayan",
+    "name": "Duncan Mayan",
+    "slug": "duncan-mayan",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Restaurantes",
+      "Historia"
+    ],
+    "summary": "El restaurante más antiguo de Tegucigalpa, famoso por el sándwich Duncan y música en vivo.",
+    "description": "Con más de un siglo de historia en el centro histórico, Duncan Mayan es reconocido por su icónico sándwich Duncan, churrasco, camarones empanizados y paella. Los viernes y sábados ofrece bandas en vivo.",
+    "cover": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.1041,
+    "lng": -87.2058,
+    "address": "Barrio El Centro, esquina opuesta a Col. 21 de Octubre, Tegucigalpa",
+    "priceLabel": "Plato fuerte aprox. L220–L450 por persona (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Lunes a jueves",
+        "open": "08:00",
+        "close": "21:00"
+      },
+      {
+        "day": "Viernes y sábado",
+        "open": "08:00",
+        "close": "00:00"
+      }
+    ],
+    "sourceUrl": "https://www.radiohouse.hn/2017/08/04/los-toneles-duncan-maya-el-patio-y-otros-lugares-de-historicos-para-comer/"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Comida para llevar",
+      "Estacionamiento"
+    ],
+    "idealFor": [
+      "Familia",
+      "Pareja",
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 410,
+    "likes": 98,
+    "reviewCount": 0,
+    "rating": 4.2,
+    "id": "fm-furiwa",
+    "name": "Furiwa",
+    "slug": "furiwa-restaurante",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Restaurantes"
+    ],
+    "summary": "Especialidades chinas y menú internacional sobre el Blvd. Juan Pablo II.",
+    "description": "Restaurante con doble propuesta de menú: cocina china tradicional bajo la marca Furiwa y opciones internacionales adicionales. Punto de referencia para comida asiática en la capital.",
+    "cover": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.0935,
+    "lng": -87.1935,
+    "address": "Blvd. Juan Pablo II, Tegucigalpa",
+    "priceLabel": "Plato fuerte aprox. L200–L400 por persona (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Lunes a domingo",
+        "open": "11:00",
+        "close": "21:30"
+      }
+    ],
+    "sourceUrl": "https://www.petitfute.co.uk/v52851-tegucigalpa/c1165-restaurants/"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Reservaciones recomendadas"
+    ],
+    "idealFor": [
+      "Pareja",
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 620,
+    "likes": 180,
+    "reviewCount": 0,
+    "rating": 4.6,
+    "id": "fm-rojo",
+    "name": "Rojo Restaurante",
+    "slug": "rojo-restaurante-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Restaurantes"
+    ],
+    "summary": "Uno de los restaurantes mejor valorados de Tegucigalpa según reseñas de viajeros.",
+    "description": "Restaurante frecuentemente mencionado entre los favoritos de la capital por su ambiente y carta variada. Consulte el menú vigente antes de su visita.",
+    "cover": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.0945,
+    "lng": -87.19,
+    "address": "Tegucigalpa (zona Palmira/Centro, confirmar dirección exacta)",
+    "priceLabel": "Consultar carta vigente",
+    "schedule": [
+      {
+        "day": "Martes a domingo",
+        "open": "12:00",
+        "close": "22:00"
+      }
+    ],
+    "sourceUrl": "https://www.tripadvisor.com/Restaurants-g292026-Tegucigalpa_Francisco_Morazan_Department.html"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Carta de vinos",
+      "Ambiente para ocasiones especiales"
+    ],
+    "idealFor": [
+      "Pareja",
+      "Grupos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 340,
+    "likes": 91,
+    "reviewCount": 0,
+    "rating": 4.3,
+    "id": "fm-la-estancia",
+    "name": "La Estancia Parrillada",
+    "slug": "la-estancia-parrillada",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Restaurantes"
+    ],
+    "summary": "Parrillada estilo argentino con cortes importados.",
+    "description": "Restaurante especializado en carnes al estilo argentino, con buena selección de vinos. Popular para cenas y ocasiones especiales.",
+    "cover": "https://images.unsplash.com/photo-1558030006-450675393462?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.096,
+    "lng": -87.195,
+    "address": "Tegucigalpa (confirmar dirección exacta)",
+    "priceLabel": "Plato fuerte aprox. L350–L700 por persona (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Lunes a domingo",
+        "open": "12:00",
+        "close": "22:00"
+      }
+    ],
+    "sourceUrl": "https://www.tripadvisor.com/Restaurants-g292026-Tegucigalpa_Francisco_Morazan_Department.html"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Ambiente tranquilo",
+      "Ideal para citas"
+    ],
+    "idealFor": [
+      "Pareja"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 290,
+    "likes": 76,
+    "reviewCount": 0,
+    "rating": 4.5,
+    "id": "fm-arno-bistro",
+    "name": "Arno Bistró Café",
+    "slug": "arno-bistro-cafe",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Restaurantes",
+      "Cafeterías"
+    ],
+    "summary": "Bistró de cocina francesa, tranquilo y recomendado para citas.",
+    "description": "Café-bistró con propuesta de cocina francesa e internacional. Reconocido por viajeros como una de las mejores opciones de alta cocina de la ciudad.",
+    "cover": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.09,
+    "lng": -87.187,
+    "address": "Tegucigalpa (confirmar dirección exacta)",
+    "priceLabel": "Plato fuerte aprox. L300–L600 por persona (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Martes a domingo",
+        "open": "08:00",
+        "close": "20:00"
+      }
+    ],
+    "sourceUrl": "https://www.tripadvisor.com/Restaurants-g292026-Tegucigalpa_Francisco_Morazan_Department.html"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [
+      {
+        "name": "Lasaña de espinaca",
+        "price": null
+      },
+      {
+        "name": "Carpaccio de res",
+        "price": null
+      }
+    ],
+    "amenities": [
+      "Vinos por copa",
+      "Terraza"
+    ],
+    "idealFor": [
+      "Pareja",
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 260,
+    "likes": 70,
+    "reviewCount": 0,
+    "rating": 4.4,
+    "id": "fm-ajo-y-vinalia",
+    "name": "Ajo y Vinalia Vinobar y Bistro",
+    "slug": "ajo-y-vinalia",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Restaurantes",
+      "Bares"
+    ],
+    "summary": "Vinobar y bistró con influencia mediterránea.",
+    "description": "Propuesta de vinobar y bistró con platos de influencia mediterránea como lasaña de espinaca y carpaccio de res, además de una selección de vinos por copa.",
+    "cover": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.0915,
+    "lng": -87.1885,
+    "address": "Centro Morazán, Blvd. Morazán, Tegucigalpa",
+    "priceLabel": "Plato fuerte aprox. L300–L600 por persona (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Martes a sábado",
+        "open": "12:00",
+        "close": "23:00"
+      }
+    ],
+    "sourceUrl": "https://www.petitfute.co.uk/v52851-tegucigalpa/c1165-restaurants/"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Música en vivo/DJ",
+      "Coctelería"
+    ],
+    "idealFor": [
+      "Amigos",
+      "Pareja"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 560,
+    "likes": 210,
+    "reviewCount": 0,
+    "rating": 4.5,
+    "id": "fm-blu-bar",
+    "name": "Blu Bar",
+    "slug": "blu-bar-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Bares"
+    ],
+    "summary": "Uno de los bares más mencionados de la vida nocturna capitalina.",
+    "description": "Bar frecuentemente citado entre los favoritos de Tegucigalpa para tomar algo con buena música y ambiente animado.",
+    "cover": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.0958,
+    "lng": -87.196,
+    "address": "Colonia Palmira, Tegucigalpa",
+    "priceLabel": "Bebidas aprox. L150–L350 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Miércoles a sábado",
+        "open": "18:00",
+        "close": "02:00"
+      }
+    ],
+    "sourceUrl": "https://wanderlog.com/es/list/geoCategory/247606/los-mejores-bares-y-bebidas-en-tegucigalpa"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Puros hondureños",
+      "Cervezas artesanales",
+      "Shisha/hookah",
+      "Lounge"
+    ],
+    "idealFor": [
+      "Amigos",
+      "Pareja"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 430,
+    "likes": 160,
+    "reviewCount": 0,
+    "rating": 4.4,
+    "id": "fm-casa-de-puros",
+    "name": "Casa de Puros",
+    "slug": "casa-de-puros-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Bares"
+    ],
+    "summary": "Bar lounge de día tranquilo, de noche vida nocturna con puros hondureños.",
+    "description": "Combina un ambiente relajado durante el día con un elegante lounge nocturno. Su atractivo principal es la tradición tabacalera hondureña, con puros hechos localmente, cervezas artesanales y shisha.",
+    "cover": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.095,
+    "lng": -87.194,
+    "address": "Tegucigalpa (zona Palmira, confirmar dirección exacta)",
+    "priceLabel": "Bebidas algo elevadas; buena calidad (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Martes a sábado",
+        "open": "16:00",
+        "close": "01:00"
+      }
+    ],
+    "sourceUrl": "https://wanderlog.com/es/list/geoCategory/247606/los-mejores-bares-y-bebidas-en-tegucigalpa"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Wine tasting room",
+      "Sommelier certificada",
+      "Ambiente romántico"
+    ],
+    "idealFor": [
+      "Pareja",
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 210,
+    "likes": 88,
+    "reviewCount": 0,
+    "rating": 4.6,
+    "id": "fm-the-winery",
+    "name": "The Winery",
+    "slug": "the-winery-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Bares"
+    ],
+    "summary": "Wine bar con sommelier certificada y cata de vinos.",
+    "description": "Uno de los mejores winebars de la ciudad, ideal para citas o reuniones íntimas. Cuenta con una sala de cata de vinos guiada por una sommelier certificada.",
+    "cover": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.094,
+    "lng": -87.19,
+    "address": "Tegucigalpa (confirmar dirección exacta)",
+    "priceLabel": "Copa de vino aprox. L180–L400 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Martes a sábado",
+        "open": "17:00",
+        "close": "00:00"
+      }
+    ],
+    "sourceUrl": "https://www.revistaestilo.net/elegidosdelaeditora/los-bares-mas-cool-de-tegucigalpa-HWES1215626"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Terraza",
+      "Vista de la ciudad",
+      "DJ"
+    ],
+    "idealFor": [
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 380,
+    "likes": 140,
+    "reviewCount": 0,
+    "rating": 4.3,
+    "id": "fm-doce-lounge",
+    "name": "DOCE Terraza Lounge",
+    "slug": "doce-terraza-lounge",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Bares"
+    ],
+    "summary": "Terraza lounge dentro del Hotel Honduras Maya, referente del party on capitalino.",
+    "description": "Ubicado en el histórico Hotel Honduras Maya, es uno de los puntos de encuentro nocturnos más conocidos de la ciudad, con terraza y buena música.",
+    "cover": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.0975,
+    "lng": -87.1975,
+    "address": "Hotel Honduras Maya, Av. República de Chile, Col. Palmira, Tegucigalpa",
+    "priceLabel": "Bebidas aprox. L150–L350 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Jueves a sábado",
+        "open": "19:00",
+        "close": "02:00"
+      }
+    ],
+    "sourceUrl": "https://www.revistaestilo.net/elegidosdelaeditora/los-bares-mas-cool-de-tegucigalpa-HWES1215626"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "150+ estilos de cerveza",
+      "Menú de comida",
+      "Ambiente al aire libre"
+    ],
+    "idealFor": [
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 470,
+    "likes": 175,
+    "reviewCount": 0,
+    "rating": 4.5,
+    "id": "fm-beer-garden",
+    "name": "Beer Garden (Hotel Clarion)",
+    "slug": "beer-garden-clarion",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Bares"
+    ],
+    "summary": "Primer jardín cervecero de Tegucigalpa, con más de 150 estilos de cerveza.",
+    "description": "Ubicado en el Hotel Clarion Real Tegucigalpa, es el primer y único jardín cervecero de la ciudad, con más de 150 estilos de cerveza, buena música y menú propio.",
+    "cover": "https://images.unsplash.com/photo-1436076863939-06870fe779c2?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.087,
+    "lng": -87.199,
+    "address": "Hotel Clarion Real Tegucigalpa, Col. Alameda, Blvd. Juan Pablo II, Tegucigalpa",
+    "priceLabel": "Cerveza aprox. L90–L220 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Miércoles a sábado",
+        "open": "17:00",
+        "close": "00:00"
+      }
+    ],
+    "sourceUrl": "https://www.revistaestilo.net/elegidosdelaeditora/los-bares-mas-cool-de-tegucigalpa-HWES1215626"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Pista de baile",
+      "DJ"
+    ],
+    "idealFor": [
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 320,
+    "likes": 120,
+    "reviewCount": 0,
+    "rating": 4.2,
+    "id": "fm-nox",
+    "name": "Nox",
+    "slug": "nox-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Bares"
+    ],
+    "summary": "Club de moda que atrae público elegante buscando socializar con estilo.",
+    "description": "Parte de una escena nocturna animada junto a Baretto's Lounge y Terrazza's Martini Bar; conocido por su atractivo entre el público que busca relajarse con estilo.",
+    "cover": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.093,
+    "lng": -87.191,
+    "address": "Blvd. Morazán, Tegucigalpa",
+    "priceLabel": "Bebidas aprox. L150–L400 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Jueves a sábado",
+        "open": "20:00",
+        "close": "02:00"
+      }
+    ],
+    "sourceUrl": "https://wanderlog.com/es/list/geoCategory/247606/los-mejores-bares-y-bebidas-en-tegucigalpa"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Ambiente bohemio",
+      "Hostal"
+    ],
+    "idealFor": [
+      "Amigos",
+      "Mochileros"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 180,
+    "likes": 64,
+    "reviewCount": 0,
+    "rating": 4.3,
+    "id": "fm-la-ronda-hostel",
+    "name": "La Ronda Hostel (Bar)",
+    "slug": "la-ronda-hostel-bar",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Bares"
+    ],
+    "summary": "Opción bohemia en el centro histórico, con plantas y ambiente relajado.",
+    "description": "Ubicado en el centro histórico de Tegucigalpa, ofrece un ambiente bohemio y alternativo con decoración de plantas y muebles de madera, ideal para una noche informal.",
+    "cover": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.103,
+    "lng": -87.205,
+    "address": "Centro Histórico, Tegucigalpa",
+    "priceLabel": "Bebidas aprox. L100–L250 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Miércoles a sábado",
+        "open": "17:00",
+        "close": "23:00"
+      }
+    ],
+    "sourceUrl": "https://www.revistaestilo.net/elegidosdelaeditora/los-bares-mas-cool-de-tegucigalpa-HWES1215626"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Arte local",
+      "Ambiente cultural",
+      "Wifi"
+    ],
+    "idealFor": [
+      "Solo",
+      "Amigos",
+      "Pareja"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 610,
+    "likes": 220,
+    "reviewCount": 0,
+    "rating": 4.6,
+    "id": "fm-cafe-paradiso",
+    "name": "Café Paradiso",
+    "slug": "cafe-paradiso-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Cafeterías"
+    ],
+    "summary": "Café cultural bohemio con arte local en sus paredes.",
+    "description": "Establecimiento cultural donde se sirve y degusta café preparado de distintas formas, con paredes decoradas con arte y esculturas locales. Punto de encuentro clásico de la capital.",
+    "cover": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.0918,
+    "lng": -87.188,
+    "address": "Tegucigalpa (zona Blvd. Morazán, confirmar dirección exacta)",
+    "priceLabel": "Café aprox. L60–L150 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Lunes a sábado",
+        "open": "08:00",
+        "close": "21:00"
+      }
+    ],
+    "sourceUrl": "https://chefexperto.com/restaurantes-de-america/donde-tomar-cafe-en-tegucigalpa-como-un-local/"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Desayunos",
+      "Repostería",
+      "Opciones vegetarianas"
+    ],
+    "idealFor": [
+      "Solo",
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 390,
+    "likes": 140,
+    "reviewCount": 0,
+    "rating": 4.7,
+    "id": "fm-galeano-cafe",
+    "name": "Galeano Café",
+    "slug": "galeano-cafe-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Cafeterías"
+    ],
+    "summary": "Café de especialidad muy bien valorado, con desayunos completos.",
+    "description": "Cafetería de especialidad reconocida por sus bebidas de espresso, repostería y desayunos. Frecuentemente mencionada como una de las mejores opciones de café en la capital.",
+    "cover": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.089,
+    "lng": -87.186,
+    "address": "Tegucigalpa (confirmar dirección exacta)",
+    "priceLabel": "Café aprox. L70–L160 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Lunes a sábado",
+        "open": "07:00",
+        "close": "19:00"
+      }
+    ],
+    "sourceUrl": "https://wanderlog.com/list/geoCategory/289864/best-coffee-shops-and-best-cafes-in-tegucigalpa"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Menú healthy",
+      "Wifi",
+      "Espacio de trabajo"
+    ],
+    "idealFor": [
+      "Solo",
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 350,
+    "likes": 110,
+    "reviewCount": 0,
+    "rating": 4.4,
+    "id": "fm-espresso-americano",
+    "name": "Espresso Americano (Coffee Lab)",
+    "slug": "espresso-americano-coffee-lab",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Cafeterías"
+    ],
+    "summary": "Cadena de café con sede Coffee Lab en Paseo Los Próceres.",
+    "description": "Reconocida cadena hondureña de café con la propuesta Coffee Lab en Paseo Los Próceres, ambiente acogedor y menú saludable para almorzar o pasar la tarde.",
+    "cover": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.0862,
+    "lng": -87.1795,
+    "address": "Paseo Los Próceres, Tegucigalpa",
+    "priceLabel": "Café aprox. L60–L140 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Lunes a domingo",
+        "open": "07:00",
+        "close": "20:00"
+      }
+    ],
+    "sourceUrl": "https://www.revistaestilo.net/tendencias/5-cafes-acogedores-en-tegucigalpa-LCES1268300"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Café de origen hondureño",
+      "Tienda gourmet",
+      "Tostado propio"
+    ],
+    "idealFor": [
+      "Solo",
+      "Amigos"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 220,
+    "likes": 80,
+    "reviewCount": 0,
+    "rating": 4.6,
+    "id": "fm-cafe-nativo",
+    "name": "Café Nativo & Roastery",
+    "slug": "cafe-nativo-roastery",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Cafeterías"
+    ],
+    "summary": "Microtostaduría familiar y tienda gourmet de café especializado en Metrópolis.",
+    "description": "Emprendimiento familiar nacido de la pasión por el café hondureño. Funciona como microtostaduría, coffee shop y tienda gourmet en la zona de Metrópolis.",
+    "cover": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.07,
+    "lng": -87.165,
+    "address": "Metrópolis, Tegucigalpa",
+    "priceLabel": "Café aprox. L60–L150 (confirme al visitar)",
+    "schedule": [
+      {
+        "day": "Lunes a sábado",
+        "open": "07:30",
+        "close": "18:30"
+      }
+    ],
+    "sourceUrl": "https://www.revistaestilo.net/tendencias/5-cafes-acogedores-en-tegucigalpa-LCES1268300"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Piscina",
+      "Centro de negocios",
+      "Spa",
+      "Restaurante",
+      "Gimnasio"
+    ],
+    "idealFor": [
+      "Negocios",
+      "Familia",
+      "Pareja"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 520,
+    "likes": 190,
+    "reviewCount": 0,
+    "rating": 4.6,
+    "id": "fm-hotel-intercontinental",
+    "name": "InterContinental Tegucigalpa at Multiplaza Mall",
+    "slug": "intercontinental-tegucigalpa-multiplaza",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Hoteles"
+    ],
+    "summary": "Hotel 5 estrellas junto a Multiplaza Mall, orientado a negocios y familias.",
+    "description": "Hotel de lujo con Centro de Conferencias, Business Center y servicios para niños. Cuenta con opciones de alta cocina y espacios sofisticados, ideal para viajeros de negocios y placer.",
+    "cover": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.08,
+    "lng": -87.1735,
+    "address": "Ave. Roble S/N, Tegucigalpa (junto a Multiplaza Mall)",
+    "priceLabel": "Desde aprox. US$176/noche (tarifa variable, confirme antes de reservar)",
+    "schedule": [
+      {
+        "day": "Recepción 24 horas",
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "sourceUrl": "https://www.hotels.com/es/de614869/hoteles-tegucigalpa-honduras/"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Piscina",
+      "Gimnasio",
+      "Restaurante",
+      "Bar",
+      "Estacionamiento (con costo para locales)"
+    ],
+    "idealFor": [
+      "Negocios",
+      "Familia",
+      "Pareja"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 480,
+    "likes": 175,
+    "reviewCount": 0,
+    "rating": 4.4,
+    "id": "fm-hotel-clarion",
+    "name": "Clarion Hotel Real Tegucigalpa",
+    "slug": "clarion-hotel-real-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Hoteles"
+    ],
+    "summary": "Hotel 4 estrellas en el centro de la actividad de negocios y entretenimiento.",
+    "description": "Ubicado en la Colonia Alameda, cerca de bancos y del Estadio Nacional Chelato Uclés, a 5 minutos de Multiplaza Mall. Cuenta con piscina, gimnasio, restaurante y bar.",
+    "cover": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.087,
+    "lng": -87.199,
+    "address": "Col. Alameda, Calle Principal, Blvd. Juan Pablo II, Tegucigalpa",
+    "priceLabel": "Desde aprox. US$101/noche (tarifa variable, confirme antes de reservar)",
+    "schedule": [
+      {
+        "day": "Recepción 24 horas",
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "sourceUrl": "https://www.choicehotels.com/honduras/tegucigalpa/clarion-hotels/hn004"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Piscina",
+      "Casino (extranjeros)",
+      "Sauna",
+      "Gimnasio",
+      "Restaurante",
+      "Bar"
+    ],
+    "idealFor": [
+      "Negocios",
+      "Turistas"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 440,
+    "likes": 150,
+    "reviewCount": 0,
+    "rating": 4.2,
+    "id": "fm-hotel-honduras-maya",
+    "name": "Hotel Honduras Maya",
+    "slug": "hotel-honduras-maya",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Hoteles"
+    ],
+    "summary": "Hotel histórico colonial con casino, piscina y vista panorámica en Palmira.",
+    "description": "Hotel a poca distancia del Estadio Tiburcio Carías Andino y la Embajada de EE.UU. Cuenta con piscina al aire libre, sauna, gimnasio, restaurante y el único casino de la ciudad (acceso limitado a extranjeros).",
+    "cover": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.0975,
+    "lng": -87.1975,
+    "address": "Av. República de Chile, Col. Palmira, Tegucigalpa",
+    "priceLabel": "Consultar tarifa vigente (confirme antes de reservar)",
+    "schedule": [
+      {
+        "day": "Recepción 24 horas",
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "sourceUrl": "https://www.cozycozy.com/es-us/hoteles-tegucigalpa"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Piscina",
+      "Desayuno incluido",
+      "Wifi",
+      "Gimnasio"
+    ],
+    "idealFor": [
+      "Negocios",
+      "Familia"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 310,
+    "likes": 112,
+    "reviewCount": 0,
+    "rating": 4.5,
+    "id": "fm-hyatt-place",
+    "name": "Hyatt Place Tegucigalpa",
+    "slug": "hyatt-place-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Hoteles"
+    ],
+    "summary": "Hotel moderno con piscina y desayuno de alta calidad.",
+    "description": "Hotel de cadena internacional bien valorado por viajeros de negocios, con piscina, desayuno de alta calidad y ubicación céntrica.",
+    "cover": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.085,
+    "lng": -87.178,
+    "address": "Tegucigalpa (confirmar dirección exacta)",
+    "priceLabel": "Desde aprox. US$103/noche (tarifa variable, confirme antes de reservar)",
+    "schedule": [
+      {
+        "day": "Recepción 24 horas",
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "sourceUrl": "https://us.trip.com/hotels/tegucigalpa-hotels-list-1251/"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Spa",
+      "Restaurante",
+      "Wifi"
+    ],
+    "idealFor": [
+      "Pareja",
+      "Negocios"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 190,
+    "likes": 70,
+    "reviewCount": 0,
+    "rating": 4.4,
+    "id": "fm-hotel-plaza-juan-carlos",
+    "name": "Hotel Plaza Juan Carlos",
+    "slug": "hotel-plaza-juan-carlos",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Hoteles"
+    ],
+    "summary": "Hotel con spa muy bien valorado por sus huéspedes.",
+    "description": "Hotel reconocido por sus servicios de spa de alta calidad, buena opción para un viaje de descanso combinado con negocios.",
+    "cover": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.09,
+    "lng": -87.185,
+    "address": "Tegucigalpa (confirmar dirección exacta)",
+    "priceLabel": "Desde aprox. US$121/noche (tarifa variable, confirme antes de reservar)",
+    "schedule": [
+      {
+        "day": "Recepción 24 horas",
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "sourceUrl": "https://us.trip.com/hotels/tegucigalpa-hotels-list-1251/"
+  },
+  {
+    "gallery": [],
+    "prices": [],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Piscina",
+      "Desayuno",
+      "Wifi"
+    ],
+    "idealFor": [
+      "Negocios",
+      "Escalas de viaje"
+    ],
+    "reviews": [],
+    "phone": "",
+    "website": "",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 260,
+    "likes": 90,
+    "reviewCount": 0,
+    "rating": 4.3,
+    "id": "fm-holiday-inn-express",
+    "name": "Holiday Inn Express Tegucigalpa by IHG",
+    "slug": "holiday-inn-express-tegucigalpa",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Hoteles"
+    ],
+    "summary": "Hotel céntrico cerca de los principales centros comerciales, buena opción económica.",
+    "description": "Hotel bien ubicado cerca de uno de los principales centros comerciales de Tegucigalpa. Habitaciones limpias y cómodas con personal atento, opción popular para escalas de viaje.",
+    "cover": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.081,
+    "lng": -87.177,
+    "address": "Tegucigalpa (confirmar dirección exacta)",
+    "priceLabel": "Desde aprox. US$101/noche (tarifa variable, confirme antes de reservar)",
+    "schedule": [
+      {
+        "day": "Recepción 24 horas",
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "sourceUrl": "https://us.trip.com/hotels/tegucigalpa-hotels-list-1251/"
+  },
+  {
+    "gallery": [],
+    "prices": [
+      {
+        "label": "Entrada general",
+        "price": 200
+      },
+      {
+        "label": "Niños desde 1 año",
+        "price": 200
+      }
+    ],
+    "promotions": [],
+    "menu": [],
+    "amenities": [
+      "Cafetería",
+      "Parqueo gratuito",
+      "Salas interactivas",
+      "Apto para niños"
+    ],
+    "idealFor": [
+      "Familia",
+      "Niños"
+    ],
+    "reviews": [],
+    "phone": "+504 2228-8510",
+    "website": "https://www.museochiminike.org/",
+    "verified": false,
+    "featured": false,
+    "status": "published",
+    "visits": 890,
+    "likes": 310,
+    "reviewCount": 0,
+    "rating": 4.7,
+    "id": "fm-chiminike",
+    "name": "Chiminike – Centro Interactivo de Enseñanza",
+    "slug": "chiminike",
+    "department": "Francisco Morazán",
+    "city": "Tegucigalpa",
+    "categories": [
+      "Museos"
+    ],
+    "summary": "El museo infantil más grande de Centroamérica, con exhibiciones interactivas.",
+    "description": "Primer centro de aprendizaje no tradicional del país, inaugurado en 2003. Ofrece siete salas interactivas sobre ciencia, cuerpo humano, medio ambiente, energía e identidad hondureña. Ideal para familias con niños.",
+    "cover": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1400&q=80",
+    "lat": 14.101,
+    "lng": -87.201,
+    "address": "Blvd. Fuerzas Armadas, contiguo a la Corte Suprema de Justicia, Tegucigalpa",
+    "priceLabel": "Entrada general aprox. L150–L250 por persona (varía según fuente, confirme)",
+    "schedule": [
+      {
+        "day": "Martes a viernes",
+        "open": "09:00",
+        "close": "17:00"
+      },
+      {
+        "day": "Sábado y domingo",
+        "open": "10:00",
+        "close": "17:00"
+      },
+      {
+        "day": "Lunes",
+        "open": "Cerrado",
+        "close": ""
+      }
+    ],
+    "sourceUrl": "https://www.turismoconcafe.com/tegucigalpa-arte/chiminike"
   }
 ]
